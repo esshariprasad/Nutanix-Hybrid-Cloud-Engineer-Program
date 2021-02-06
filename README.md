@@ -11,6 +11,6 @@ Project 2: Private Cloud SaaS: Three-Tier Web Application
 
 Creating Calm Blue Prints, Creating and Launching a full-fledged Three-Tier Web application 
 
-
+![alt text](https://github.com/esshariprasad/Nutanix-Hybrid-Cloud-Engineer-Program/blob/master/Project2/Screenshot_Project2.png)
 
 NANO DEGREE: https://www.udacity.com/course/hybrid-cloud-engineer-nanodegree--nd321
