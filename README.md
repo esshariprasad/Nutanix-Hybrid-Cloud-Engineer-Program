@@ -20,3 +20,5 @@ Project 3: Deploying 3-Tier Web Application in hybrid deployment model. Between 
 Used Vpc's for private connections between istances.
 Implemented Scaling in and Scaling out
 Used HAProxy for load balancing.
+
+![image](https://user-images.githubusercontent.com/19888725/124339232-ad29b300-dbca-11eb-9630-e36bb08dfc47.png)
