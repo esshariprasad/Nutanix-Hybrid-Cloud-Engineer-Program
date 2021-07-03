@@ -14,3 +14,9 @@ Creating Calm Blue Prints, Creating and Launching a full-fledged Three-Tier Web 
 ![alt text](https://github.com/esshariprasad/Nutanix-Hybrid-Cloud-Engineer-Program/blob/master/Project2/Screenshot_Project2.png)
 
 NANO DEGREE: https://www.udacity.com/course/hybrid-cloud-engineer-nanodegree--nd321
+
+Project 3: Deploying 3-Tier Web Application in hybrid deployment model. Between inprimse nutanix clusters and and Amazon EC2 instances.
+
+Used Vpc's for private connections between istances.
+Implemented Scaling in and Scaling out
+Used HAProxy for load balancing.
