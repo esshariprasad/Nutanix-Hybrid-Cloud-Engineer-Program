@@ -18,7 +18,7 @@ NANO DEGREE: https://www.udacity.com/course/hybrid-cloud-engineer-nanodegree--nd
 Project 3: 
 Deploying 3-Tier Web Application in hybrid deployment model. Implemented a hybrid model using inprimse nutanix clusters and and Amazon EC2 instances.
 
-Used Vpc's for private connections between istances.
+Used Vpc for private connections between istances.
 Implemented Scaling in and Scaling out
 Used HAProxy for load balancing.
 
