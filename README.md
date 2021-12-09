@@ -16,7 +16,7 @@ Creating Calm Blue Prints, Creating and Launching a full-fledged Three-Tier Web 
 NANO DEGREE: https://www.udacity.com/course/hybrid-cloud-engineer-nanodegree--nd321
 
 Project 3: 
-Deploying 3-Tier Web Application in hybrid deployment model. Implemented a hybrid model using inprimse nutanix clusters and and Amazon EC2 instances.
+Deploying 3-Tier Web Application in hybrid deployment model. Implemented a hybrid model using inprimse nutanix clusters and Amazon EC2 instances.
 
 Used Vpc for private connections between istances.
 Implemented Scaling in and Scaling out
